@@ -3,11 +3,11 @@
 
 Learning Resource: https://www.udemy.com/course/the-complete-web-development-bootcamp
 
-[X] HTML 
-[X] CSS ( Basic )
-[X] JS ( Basic )
-[ ] DOM ( In the Process )
-[ ] jQuery
-[ ] nodeJS
-[ ] RESTful API
-[ ] React JS
+- [X] HTML 
+- [X] CSS ( Basic )
+- [X] JS ( Basic )
+- [ ] DOM ( In the Process )
+- [ ] jQuery
+- [ ] nodeJS
+- [ ] RESTful API
+- [ ] React JS
